@@ -5,14 +5,13 @@
 <p>My name’s <strong>Mariana Pires Almeida</strong>, I’m a computer technician and a student of Information by Systems at Instituto Federal de São Paulo.</p> 
 <ul>
 <h2>🌼 About Me</h2>
-<li>💻 IT technician and Information Systems student at the Federal Institute.</li>
-🛠️ Experience with PHP, SQL, HTML, CSS, Bootstrap and Java.
-📊 Knowledge of diagramming and software documentation.
-🎨 Skills in styling interfaces with CSS and Bootstrap.
-Familiarity with hardware, information security and help desk.
-🗂️ Practice with SQL databases and modeling.
-🌏 Intermediate English and basic/intermediate Spanish.
-📚 Always looking for learning and new experiences in the technology field.
+<li>🛠️ Experience with PHP, SQL, HTML, CSS, Bootstrap and Java.</li>
+<li>📊 Knowledge of diagramming and software documentation.</li>
+<li>🎨 Skills in styling interfaces with CSS and Bootstrap.</li>
+<li>💻 Familiarity with hardware, information security and help desk.</li>
+<li>🗂️ Practice with SQL databases and modeling.</li>
+<li>🌏 Intermediate English and basic/intermediate Spanish.</li>
+<li>📚 Always looking for learning and new experiences in the technology field.</li>
 </ul>
 Translated with DeepL.com (free version)
 - <div align="center">
