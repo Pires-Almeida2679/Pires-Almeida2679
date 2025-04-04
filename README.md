@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
-</p>
+
 <h1>Hi there 👋</h1>
   <div>
     <p>My name’s <strong>Mariana Pires Almeida</strong>, I’m a computer technician and a student of Information by Systems at Instituto Federal de São Paulo.</p> 
@@ -23,4 +23,5 @@
     <a href="https://www.linkedin.com/in/marianapiresalmeida"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="mailto:marianapires.mpa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </p>
+</div>
 </div>
