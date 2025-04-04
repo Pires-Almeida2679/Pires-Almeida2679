@@ -13,7 +13,7 @@
 <li>🌏 Intermediate English and basic/intermediate Spanish.</li>
 <li>📚 Always looking for learning and new experiences in the technology field.</li>
 </ul>
-- <div align="center">
+<div align="center">
   <h3 style="">Connect with me</h3>
   <p>  
     <a href="https://www.instagram.com/_marianapires__/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
