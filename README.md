@@ -13,6 +13,7 @@
 <li>🌏 Intermediate English and basic/intermediate Spanish.</li>
 <li>📚 Always looking for learning and new experiences in the technology field.</li>
 </ul>
+<br>
 <div align="center">
   <h3 style="">Connect with me</h3>
   <p>  
