@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
-</p>
 <h1>Hi there 👋</h1>
   <div>
     <p>My name’s <strong>Mariana Pires Almeida</strong>, I’m a computer technician and a student of Information by Systems at Instituto Federal de São Paulo.</p> 
